@@ -1,0 +1,15 @@
+Step-1:Start
+Step-2:Declare Integer i, p, q, r, n    
+Step-3:Assign p = 0
+Step-4:Assign q = 1
+Step-5:Output "Enter the numbers which are to be printed"
+Step-6:Input n
+Step-7:Output p
+Step-8:Output q
+Step-9:For i = 2 to n-1
+Step-10:     Assign r = p+q
+Step-11:     Output r
+Step-12:     Assign p = q
+Step-13:     Assign q = r
+Step-14:  End
+Step-15:Stop

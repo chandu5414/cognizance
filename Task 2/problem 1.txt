@@ -1,0 +1,15 @@
+Step-1:Start
+Step-2:Declare Integer number, divisor, reminder
+Step-3:Output "Enter the number"
+Step-4:Input number
+Step-5:Assign divisor = 3
+Step-6:While number>=divisor
+Step-7:Assign number = number-divisor
+Step-8:End
+Step-9:Assign reminder = number
+Step-10:If reminder==0
+Step-11:      Output "The number is divisible by 3"
+Step-12:  False:
+Step-13:      Output "The number is not divisible by 3"
+Step-14:   End
+Step-15:Stop
